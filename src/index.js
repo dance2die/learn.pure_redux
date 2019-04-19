@@ -3,7 +3,7 @@ import ReactDOM from "react-dom";
 
 import Counter from "./Counter";
 
-import "./styles.scss";
+import "./styles.css";
 
 function App() {
   return (
